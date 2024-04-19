@@ -1,4 +1,4 @@
-<h1>Hi, I'm Roy! <br/><a href="https://github.com/rrynz0n">Programmer</a>, <a href="https://www.linkedin.com/in/rrynzon/">Network Engineer</a>, <a href="https://www.youtube.com/@rrynzon)">YouTuber</a></h1>
+<h1>Hi, I'm Roy! <br/><a href="https://github.com/rrynz0n">Programmer</a>, <a href="https://www.linkedin.com/in/rrynzon/">Network Engineer</a>, <a href="https://www.youtube.com/@rrynzon">YouTuber</a></h1>
 
 <h2>👨‍💻 Network Development Projects:</h2>
 
