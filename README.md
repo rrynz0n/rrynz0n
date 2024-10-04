@@ -17,7 +17,7 @@
   - [CCNA](https://www.credly.com/badges/76c496cc-8d19-49ac-a702-d4fbd8ebfc9b)
   - [JNCIA-JUNOS](https://www.credly.com/badges/63c1c7a0-c3a7-4ee2-8528-36f385c18038)
 - <b>Cybersec-related Certifications</b>
-
+  - [Security+](https://www.credly.com/earner/earned/badge/9a80773e-4115-4f2d-a262-502dd865f0fe)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="rrynzon | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
